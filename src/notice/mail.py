@@ -64,7 +64,7 @@ def format_content(cves):
 <br/><br/>
 ++++++++++++++++++++++++++++++++++++++++++++++
 <br/>
-<font color="red">【漏洞情报收集与播报支持】</font> YY网络安全部
+<font color="red">【漏洞情报收集与播报支持】</font> 易云安服威胁情报智能推送
 '''
     src_infos = []
     cve_infos = []
